@@ -1,2 +1,4 @@
 # Arbeidskrav2
-Her kommer oppgavene til arbeidskrav2
+Her er oppgavene til arbeidskrav 2
+
+Oppgavene har hver sin fil med unntak av 4a og 4b som er slått sammen under oppgave 4. 4c er for seg selv. 
