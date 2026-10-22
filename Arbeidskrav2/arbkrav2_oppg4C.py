@@ -15,7 +15,7 @@ data = {
 
 land = input("Skriv inn et land ").capitalize()
 hovedstad = input("Skriv inn et hovedstaden i landet ").capitalize()
-antall_innbyggere = float(input("Skriv inn antall innbyggere i hovedstaden i millioner "))
+antall_innbyggere = float(input("Skriv inn antall innbyggere i millioner i hovedstaden "))
 
 
 
